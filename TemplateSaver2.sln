@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateSaver2", "TemplateSaver2\TemplateSaver2.csproj", "{C9C5BDAB-0EA5-42EB-AA84-561EA072D9EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		TemplateSaver|Any CPU = TemplateSaver|Any CPU
+		TemplateSaver|x64 = TemplateSaver|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9C5BDAB-0EA5-42EB-AA84-561EA072D9EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9C5BDAB-0EA5-42EB-AA84-561EA072D9EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9C5BDAB-0EA5-42EB-AA84-561EA072D9EA}.Debug|x64.ActiveCfg = Debug|x64
+		{C9C5BDAB-0EA5-42EB-AA84-561EA072D9EA}.Debug|x64.Build.0 = Debug|x64
+		{C9C5BDAB-0EA5-42EB-AA84-561EA072D9EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9C5BDAB-0EA5-42EB-AA84-561EA072D9EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9C5BDAB-0EA5-42EB-AA84-561EA072D9EA}.Release|x64.ActiveCfg = Release|x64
+		{C9C5BDAB-0EA5-42EB-AA84-561EA072D9EA}.Release|x64.Build.0 = Release|x64
+		{C9C5BDAB-0EA5-42EB-AA84-561EA072D9EA}.TemplateSaver|Any CPU.ActiveCfg = TemplateSaver|Any CPU
+		{C9C5BDAB-0EA5-42EB-AA84-561EA072D9EA}.TemplateSaver|Any CPU.Build.0 = TemplateSaver|Any CPU
+		{C9C5BDAB-0EA5-42EB-AA84-561EA072D9EA}.TemplateSaver|x64.ActiveCfg = TemplateSaver|x64
+		{C9C5BDAB-0EA5-42EB-AA84-561EA072D9EA}.TemplateSaver|x64.Build.0 = TemplateSaver|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C9C1F41-1F90-4CCB-BE1F-C5DB4AB67DE0}
+	EndGlobalSection
+EndGlobal
