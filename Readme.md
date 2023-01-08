@@ -7,7 +7,7 @@ to combat and therefore may not always instantly recall what each skill’s effe
 simple application that is configurable to display each hot key’s combat ability’s effects may be 
 beneficial to a user that needs a quick review of the character’s current layout or can glance at 
 it when they need an ability with a specific effect.
-  
+<br>
 The implemented solution uses:
 <ol>
   <li>Visual studio Windows Forms (.NET Framework)/li>
