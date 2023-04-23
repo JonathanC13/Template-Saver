@@ -12,7 +12,9 @@ The implemented solution uses:
   <li>SQLite</li>
 </ol> 
   
-<h2>Exec</h2>
-  The Exec and setup can be found in the "Exec" folder.
+<h2>To install</h2>
+  Download the "Exec" folder and inside can be found the setup.exe. Execute it and it should install the application.
 <h2>Report</h2>
   The final report can be found in the "Final Report" folder.
+<br><br><br><br>
+This game/job is desgined to be a time sink for players' feeble attempt to stay on the bleeding edge; I've obviously failed to up to date with content. The only reason I keep engaging with inherently toxic activities is because of the life time crisis of purpose.
