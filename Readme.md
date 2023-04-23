@@ -17,4 +17,4 @@ The implemented solution uses:
 <h2>Report</h2>
   The final report can be found in the "Final Report" folder.
 <br><br><br><br>
-This game/job is desgined to be a time sink for players' feeble attempt to stay on the bleeding edge; I've obviously failed to up to date with content. The only reason I keep engaging with inherently toxic activities is because of the life time crisis of purpose.
+This game/job is desgined to be a time sink for players' feeble attempt to stay on the bleeding edge; I've obviously failed to stay up to date with ability and content. The only reason I keep engaging with inherently toxic activities is because of the life time crisis of "purpose."
