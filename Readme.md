@@ -1,7 +1,5 @@
-<h1>Read me</h1>
-  
 <h2>Introduction</h2>
-During ones journey playing the MMO Lost Ark Online, they may find themselves, possibly with 
+During one's journey playing the MMO Lost Ark Online, they may find themselves, possibly with 
 no volition of their own, having a multitude of characters that have to perform activities related 
 to combat and therefore may not always instantly recall what each skill’s effects are. Having a 
 simple application that is configurable to display each hot key’s combat ability’s effects may be 
