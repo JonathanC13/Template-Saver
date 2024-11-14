@@ -8,7 +8,7 @@ it when they need an ability with a specific effect.
 <br><br>
 The implemented solution uses:
 <ol>
-  <li>Visual studio Windows Forms (.NET Framework)/li>
+  <li>Visual studio Windows Forms (.NET Framework)</li>
   <li>SQLite</li>
 </ol> 
   
